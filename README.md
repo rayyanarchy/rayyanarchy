@@ -4,7 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanarchy)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rayyanarchy)
 
-Full of life, so I have to pick what goes here. Coming soon...
+I'm a Computer Science graduate building AI systems end to end, from data and retrieval to models, APIs, and deployment. I treat no layer as a black box: I understand how it works, find where it breaks, and make it reliable.
+
+I'm targeting Applied AI and AI Engineering roles. If you need an engineer who can take a problem from the first question to a deployed system, [let's talk.](mailto:syedrayyan.a@outlook.com)
 
 <br>
 <br>
