@@ -6,7 +6,7 @@
 
 I'm a Computer Science graduate building AI systems end to end, from data and retrieval to models, APIs, and deployment. I treat no layer as a black box: I understand how it works, find where it breaks, and make it reliable.
 
-I'm targeting Applied AI and AI Engineering roles. If you need an engineer who can take a problem from the first question to a deployed system, [let's talk.](mailto:syedrayyan.a@outlook.com)
+If you have a problem worth taking apart, or just want to talk shop, [let's chat.](mailto:syedrayyan.a@outlook.com)
 
 <br>
 <br>
